@@ -1,0 +1,19 @@
+# Vivado generated folders and files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+webtalk*
+
+# Python
+__pycache__/
+data/
+lenet_mnist.npz
